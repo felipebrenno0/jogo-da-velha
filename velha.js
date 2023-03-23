@@ -1,8 +1,8 @@
 
-var jogador, vencedor = null
-var jogadorSelecionado = document.getElementById('jogador-selecionado')
-var vencedorSelecionado = document.getElementById('vencedor-selecionado')
-var quadrado = document.getElementsByTagName('quadrado')
+let jogador, vencedor = null
+let jogadorSelecionado = document.getElementById('jogador-selecionado')
+let vencedorSelecionado = document.getElementById('vencedor-selecionado')
+let quadrado = document.getElementsByTagName('quadrado')
 
 mudarJogador('X')
 
