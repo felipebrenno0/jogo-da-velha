@@ -1,5 +1,4 @@
-# Jogo da Velha
-Jogo da velha criado em um desafio de projeto na DIO
+# Jogo da Velha responsivo
 
 ### Acrescentei alguns estilos no css 
 
