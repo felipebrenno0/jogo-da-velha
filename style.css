@@ -20,7 +20,7 @@
     width: 50px;
     background: #eee;
     display: inline-block;
-    padding: 40px;
+    padding: 20px;
     font-size: 60px;
     margin: 5px; 
     cursor: pointer;
@@ -28,6 +28,12 @@
     border-radius: 40px;
     
 }
+
+@media screen and (min-width: 500px) {
+    .quadrado {
+        padding: 40px;
+    }
+  }
 
 .jogador, .vencedor {
     text-align: center;
